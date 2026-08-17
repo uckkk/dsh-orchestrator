@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-csv-to-md",
     "dsh-design-patterns",
     "dsh-design-styles",
     "dsh-duration",
@@ -164,6 +163,11 @@
     "dsh-context-dashboard": {
       "machine": "bf-chenqingr-cvp0wm",
       "at": 1786965248431,
+      "version": "0.1.0"
+    },
+    "dsh-csv-to-md": {
+      "machine": "bf-chenqingr-cvp0wm",
+      "at": 1786965296177,
       "version": "0.1.0"
     }
   },

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1786965248431,
+  "updatedAt": 1786965296177,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -187,11 +187,11 @@
       "description": "CSV 转 Markdown 表格",
       "tools": 1,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1786965296177,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1786965248431,
-      "published": 1,
+      "lastSeen": 1786965296177,
+      "published": 2,
       "blocked": 11
     }
   }
