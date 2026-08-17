@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1786965344282,
+  "updatedAt": 1786965393071,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -235,11 +235,11 @@
       "description": "设计风格参考：主流视觉风格（极简、拟物、玻璃态等）特征与选用建议（Design style reference for DeepSeek Harness）",
       "tools": 3,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1786965393071,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1786965344282,
-      "published": 3,
+      "lastSeen": 1786965393071,
+      "published": 4,
       "blocked": 11
     }
   }
