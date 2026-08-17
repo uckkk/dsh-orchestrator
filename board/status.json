@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1786965488137,
+  "updatedAt": 1786965536587,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -271,11 +271,11 @@
       "description": "环境变量管理：扫描代码引用的环境变量与 .env 比对检测缺失/未使用，并从 .env 生成脱敏的 .env.example",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1786965536587,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1786965488137,
-      "published": 6,
+      "lastSeen": 1786965536587,
+      "published": 7,
       "blocked": 11
     }
   }
