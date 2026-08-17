@@ -111,6 +111,56 @@
       "machine": "pre",
       "at": 1786930059721,
       "version": "0.1.4"
+    },
+    "dsh-animation-principles": {
+      "machine": "pre",
+      "at": 1786946872015,
+      "version": "0.1.0"
+    },
+    "dsh-base64url": {
+      "machine": "pre",
+      "at": 1786946872015,
+      "version": "0.1.0"
+    },
+    "dsh-byte-size": {
+      "machine": "pre",
+      "at": 1786946872015,
+      "version": "0.1.0"
+    },
+    "dsh-cinematography": {
+      "machine": "pre",
+      "at": 1786946872015,
+      "version": "0.1.0"
+    },
+    "dsh-code-stats": {
+      "machine": "pre",
+      "at": 1786946872015,
+      "version": "0.1.0"
+    },
+    "dsh-color-contrast": {
+      "machine": "pre",
+      "at": 1786946872015,
+      "version": "0.1.0"
+    },
+    "dsh-color-name": {
+      "machine": "pre",
+      "at": 1786946872015,
+      "version": "0.1.0"
+    },
+    "dsh-color-theory": {
+      "machine": "pre",
+      "at": 1786946872015,
+      "version": "0.1.0"
+    },
+    "dsh-composition": {
+      "machine": "pre",
+      "at": 1786946872015,
+      "version": "0.1.0"
+    },
+    "dsh-cron": {
+      "machine": "pre",
+      "at": 1786946872015,
+      "version": "0.1.0"
     }
   },
   "blocked": {

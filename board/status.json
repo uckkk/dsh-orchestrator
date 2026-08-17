@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "updatedAt": 1786946761930,
+  "updatedAt": 1786946872015,
   "plugins": [
     {
       "name": "dsh-animation-principles",
       "description": "迪士尼动画12法则知识库",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "blocked",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": "bf-chenqingr-cvp0wm",
-      "publishedAt": 1786937139110,
-      "blockedReason": "npm 上该名字属于 i6060，需改名"
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "i6060",
+      "machine": null,
+      "publishedAt": null,
+      "blockedReason": null
     },
     {
       "name": "dsh-api-contract",
@@ -55,120 +55,120 @@
       "description": "Base64URL 编解码",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "blocked",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": "bf-chenqingr-cvp0wm",
-      "publishedAt": 1786937188883,
-      "blockedReason": "npm 上该名字属于 i6060，需改名"
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "i6060",
+      "machine": null,
+      "publishedAt": null,
+      "blockedReason": null
     },
     {
       "name": "dsh-byte-size",
-      "description": "字节大小格式化",
+      "description": "字节大小格式化：把任意字节数换算为 B/KB/MB/GB/TB 等人类可读格式，支持二进制与十进制前缀（Byte size formatting tool for DeepSeek Harness）",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "blocked",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": "bf-chenqingr-cvp0wm",
-      "publishedAt": 1786937238470,
-      "blockedReason": "npm 上该名字属于 i6060，需改名"
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "i6060",
+      "machine": null,
+      "publishedAt": null,
+      "blockedReason": null
     },
     {
       "name": "dsh-cinematography",
       "description": "电影运镜与镜头语言参考",
       "tools": 3,
       "localVersion": "0.1.0",
-      "status": "blocked",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": "bf-chenqingr-cvp0wm",
-      "publishedAt": 1786937289408,
-      "blockedReason": "npm 上该名字属于 i6060，需改名"
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "i6060",
+      "machine": null,
+      "publishedAt": null,
+      "blockedReason": null
     },
     {
       "name": "dsh-code-stats",
       "description": "代码统计：扫描项目，按语言统计文件数与代码行数，返回语言分布与最大文件清单",
       "tools": 1,
       "localVersion": "0.1.0",
-      "status": "blocked",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": "bf-chenqingr-cvp0wm",
-      "publishedAt": 1786937338003,
-      "blockedReason": "npm 上该名字属于 i6060，需改名"
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "i6060",
+      "machine": null,
+      "publishedAt": null,
+      "blockedReason": null
     },
     {
       "name": "dsh-color",
       "description": "颜色工具：hex/rgb/hsl 互转，计算补色、明暗与前景对比度",
       "tools": 1,
       "localVersion": "0.1.0",
-      "status": "blocked",
+      "status": "pending",
       "npmVersion": null,
       "publishedBy": null,
-      "machine": "bf-chenqingr-cvp0wm",
-      "publishedAt": 1786937400604,
-      "blockedReason": "E403：名字被他人占用（无法确认 owner，标记需改名）"
+      "machine": null,
+      "publishedAt": null,
+      "blockedReason": null
     },
     {
       "name": "dsh-color-contrast",
       "description": "WCAG颜色对比度计算器",
       "tools": 3,
       "localVersion": "0.1.0",
-      "status": "blocked",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": "bf-chenqingr-cvp0wm",
-      "publishedAt": 1786939113798,
-      "blockedReason": "npm 上该名字属于 i6060，需改名"
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "i6060",
+      "machine": null,
+      "publishedAt": null,
+      "blockedReason": null
     },
     {
       "name": "dsh-color-name",
-      "description": "颜色名称",
+      "description": "颜色名称识别：输入十六进制颜色，返回常见中文/英文颜色名称（Color name lookup tool for DeepSeek Harness）",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "blocked",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": "bf-chenqingr-cvp0wm",
-      "publishedAt": 1786937506838,
-      "blockedReason": "npm 上该名字属于 i6060，需改名"
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "i6060",
+      "machine": null,
+      "publishedAt": null,
+      "blockedReason": null
     },
     {
       "name": "dsh-color-theory",
       "description": "色彩理论与配色方案参考",
       "tools": 3,
       "localVersion": "0.1.0",
-      "status": "blocked",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": "bf-chenqingr-cvp0wm",
-      "publishedAt": 1786937559048,
-      "blockedReason": "npm 上该名字属于 i6060，需改名"
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "i6060",
+      "machine": null,
+      "publishedAt": null,
+      "blockedReason": null
     },
     {
       "name": "dsh-composition",
-      "description": "构图法则参考",
+      "description": "构图法则参考：摄影、绘画与界面布局通用的构图知识库（三分法、对称、引导线等），辅助画面与界面设计决策",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "blocked",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": "bf-chenqingr-cvp0wm",
-      "publishedAt": 1786937609104,
-      "blockedReason": "npm 上该名字属于 i6060，需改名"
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "i6060",
+      "machine": null,
+      "publishedAt": null,
+      "blockedReason": null
     },
     {
       "name": "dsh-cron",
       "description": "Cron 解析：解析 5 字段 cron 表达式，返回人类可读描述与接下来 N 次执行时间",
       "tools": 1,
       "localVersion": "0.1.0",
-      "status": "blocked",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": "bf-chenqingr-cvp0wm",
-      "publishedAt": 1786937661265,
-      "blockedReason": "npm 上该名字属于 i6060，需改名"
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "i6060",
+      "machine": null,
+      "publishedAt": null,
+      "blockedReason": null
     },
     {
       "name": "dsh-csv-to-md",
@@ -208,7 +208,7 @@
     },
     {
       "name": "dsh-design-patterns",
-      "description": "UI设计模式参考",
+      "description": "UI 设计模式参考：常见界面组件模式与适用场景知识库，帮助快速选择正确的交互组件（UI design patterns for DeepSeek Harness）",
       "tools": 2,
       "localVersion": "0.1.0",
       "status": "pending",
@@ -220,7 +220,7 @@
     },
     {
       "name": "dsh-design-styles",
-      "description": "设计风格参考",
+      "description": "设计风格参考：主流视觉风格（极简、拟物、玻璃态等）特征与选用建议（Design style reference for DeepSeek Harness）",
       "tools": 3,
       "localVersion": "0.1.0",
       "status": "pending",
@@ -232,7 +232,7 @@
     },
     {
       "name": "dsh-duration",
-      "description": "时长格式化",
+      "description": "时长格式化：把毫秒/秒等时长转换为人类可读的 X 小时 Y 分钟 Z 秒，支持多种单位（Duration formatter tool for DeepSeek Harness）",
       "tools": 2,
       "localVersion": "0.1.0",
       "status": "pending",
@@ -304,7 +304,7 @@
     },
     {
       "name": "dsh-grid-system",
-      "description": "栅格与间距系统参考",
+      "description": "栅格与间距系统参考：8 点栅格、响应式断点与间距规范知识库，指导界面布局设计（Grid & spacing system reference for DSH）",
       "tools": 3,
       "localVersion": "0.1.0",
       "status": "pending",
@@ -388,7 +388,7 @@
     },
     {
       "name": "dsh-interaction-design",
-      "description": "交互设计理论参考",
+      "description": "交互设计理论参考：反馈、状态、导航等交互设计原则知识库，辅助产品与界面设计（Interaction design principles for DeepSeek Harness）",
       "tools": 2,
       "localVersion": "0.1.0",
       "status": "pending",
@@ -424,7 +424,7 @@
     },
     {
       "name": "dsh-json-merge",
-      "description": "JSON 深合并",
+      "description": "JSON 深合并：递归合并多个 JSON 对象，支持数组策略与冲突处理（Deep JSON merge tool for DeepSeek Harness）",
       "tools": 1,
       "localVersion": "0.1.0",
       "status": "pending",
@@ -556,7 +556,7 @@
     },
     {
       "name": "dsh-motion-design",
-      "description": "动效设计原则参考",
+      "description": "动效设计参考：动画原则、时长与缓动曲线参数知识库，辅助 UI 动效设计（Motion design reference for DeepSeek Harness）",
       "tools": 3,
       "localVersion": "0.1.0",
       "status": "pending",
@@ -580,7 +580,7 @@
     },
     {
       "name": "dsh-number-words",
-      "description": "数字转大写",
+      "description": "数字转大写：阿拉伯数字转中文大写（金额/票据场景），支持小数与负数（Number to Chinese uppercase words tool for DSH）",
       "tools": 3,
       "localVersion": "0.1.0",
       "status": "pending",
@@ -592,7 +592,7 @@
     },
     {
       "name": "dsh-paper-sizes",
-      "description": "纸张尺寸标准参考",
+      "description": "纸张尺寸标准参考：ISO A/B/C 系列与常见印刷尺寸查询（Paper size reference for DeepSeek Harness）",
       "tools": 3,
       "localVersion": "0.1.0",
       "status": "pending",
@@ -616,7 +616,7 @@
     },
     {
       "name": "dsh-photography",
-      "description": "摄影基础参考",
+      "description": "摄影基础参考：曝光三角、焦距、光线与构图知识库，辅助摄影与画面设计（Photography basics reference for DeepSeek Harness）",
       "tools": 4,
       "localVersion": "0.1.0",
       "status": "pending",
@@ -688,7 +688,7 @@
     },
     {
       "name": "dsh-roman",
-      "description": "罗马数字转换",
+      "description": "罗马数字转换：阿拉伯数字与罗马数字互转（Roman numeral converter tool for DeepSeek Harness）",
       "tools": 2,
       "localVersion": "0.1.0",
       "status": "pending",
@@ -724,7 +724,7 @@
     },
     {
       "name": "dsh-storyboard",
-      "description": "分镜脚本模板与术语",
+      "description": "分镜脚本：分镜术语、镜头类型与分镜模板知识库，辅助视频与短片创作（Storyboard reference for DeepSeek Harness）",
       "tools": 2,
       "localVersion": "0.1.0",
       "status": "pending",
@@ -736,7 +736,7 @@
     },
     {
       "name": "dsh-string-similarity",
-      "description": "字符串相似度",
+      "description": "字符串相似度：Levenshtein/Jaccard 等算法计算文本相似度（String similarity tool for DeepSeek Harness）",
       "tools": 2,
       "localVersion": "0.1.0",
       "status": "pending",
@@ -760,7 +760,7 @@
     },
     {
       "name": "dsh-text-diff",
-      "description": "行级文本 diff",
+      "description": "行级文本 diff：对比两段文本，输出增删改差异（Line-level text diff tool for DeepSeek Harness）",
       "tools": 1,
       "localVersion": "0.1.0",
       "status": "pending",
@@ -796,7 +796,7 @@
     },
     {
       "name": "dsh-text-wrap",
-      "description": "文本换行",
+      "description": "文本换行：按指定宽度折行文本，支持 CJK 与中英文混排（Text wrap tool for DeepSeek Harness）",
       "tools": 1,
       "localVersion": "0.1.0",
       "status": "pending",
@@ -880,7 +880,7 @@
     },
     {
       "name": "dsh-ux-writing",
-      "description": "UX文案写作指南",
+      "description": "UX 文案写作：微文案规范与按钮、错误提示文案指南，辅助界面文案撰写（UX writing guide for DeepSeek Harness）",
       "tools": 4,
       "localVersion": "0.1.0",
       "status": "pending",
