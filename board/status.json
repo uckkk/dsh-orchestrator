@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1786946872015,
+  "updatedAt": 1786946982150,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -154,6 +154,18 @@
       "status": "published",
       "npmVersion": "0.1.0",
       "publishedBy": "i6060",
+      "machine": null,
+      "publishedAt": null,
+      "blockedReason": null
+    },
+    {
+      "name": "dsh-context-dashboard",
+      "description": "DSH 会话上下文统计面板：统计每个会话的消息数、轮次、工具调用、字符数与预估 token，生成全量/按项目上下文报告，帮你看清上下文消耗大户。Context usage dashboard for DeepSeek Harness — per-session message/token statistics and context reports (zstd + plaintext logs).",
+      "tools": 2,
+      "localVersion": "0.1.0",
+      "status": "pending",
+      "npmVersion": null,
+      "publishedBy": null,
       "machine": null,
       "publishedAt": null,
       "blockedReason": null
@@ -339,18 +351,6 @@
       "blockedReason": null
     },
     {
-      "name": "dsh-http",
-      "description": "HTTP 请求工具：发起请求返回状态码/响应头/响应体/耗时（Node fetch）",
-      "tools": 1,
-      "localVersion": "0.1.0",
-      "status": "blocked",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
-      "blockedReason": "npm 上该名字属于 zhijiangtang，需改名"
-    },
-    {
       "name": "dsh-http-status",
       "description": "HTTP 状态码速查",
       "tools": 2,
@@ -363,16 +363,28 @@
       "blockedReason": null
     },
     {
-      "name": "dsh-image",
-      "description": "图片处理：读取图片尺寸/格式、缩放与格式转换（内置 ffmpeg，跨平台）",
-      "tools": 2,
+      "name": "dsh-http-uckkk",
+      "description": "HTTP 请求工具：发起请求返回状态码/响应头/响应体/耗时（Node fetch）",
+      "tools": 1,
       "localVersion": "0.1.0",
-      "status": "blocked",
+      "status": "pending",
       "npmVersion": null,
       "publishedBy": null,
       "machine": null,
       "publishedAt": null,
-      "blockedReason": "npm 上该名字属于 r6047736，需改名"
+      "blockedReason": null
+    },
+    {
+      "name": "dsh-image-uckkk",
+      "description": "图片处理：读取图片尺寸/格式、缩放与格式转换（内置 ffmpeg，跨平台）",
+      "tools": 2,
+      "localVersion": "0.1.0",
+      "status": "pending",
+      "npmVersion": null,
+      "publishedBy": null,
+      "machine": null,
+      "publishedAt": null,
+      "blockedReason": null
     },
     {
       "name": "dsh-ini",
@@ -495,16 +507,16 @@
       "blockedReason": null
     },
     {
-      "name": "dsh-jwt",
+      "name": "dsh-jwt-uckkk",
       "description": "JWT 解码：解析 header/payload，判断过期（不验签）",
       "tools": 1,
       "localVersion": "0.1.0",
-      "status": "blocked",
+      "status": "pending",
       "npmVersion": null,
       "publishedBy": null,
       "machine": null,
       "publishedAt": null,
-      "blockedReason": "npm 上该名字属于 zhijiangtang，需改名"
+      "blockedReason": null
     },
     {
       "name": "dsh-license-guard",
@@ -603,16 +615,16 @@
       "blockedReason": null
     },
     {
-      "name": "dsh-password",
+      "name": "dsh-password-uckkk",
       "description": "密码工具：生成强随机密码、检测密码强度与信息熵",
       "tools": 0,
       "localVersion": "0.1.0",
-      "status": "blocked",
+      "status": "pending",
       "npmVersion": null,
       "publishedBy": null,
       "machine": null,
       "publishedAt": null,
-      "blockedReason": "npm 上该名字属于 zhijiangtang，需改名"
+      "blockedReason": null
     },
     {
       "name": "dsh-photography",
@@ -713,6 +725,30 @@
     {
       "name": "dsh-semver",
       "description": "语义化版本比较：比较两个版本号大小，判断版本是否满足范围（^~>=<=）",
+      "tools": 1,
+      "localVersion": "0.1.0",
+      "status": "pending",
+      "npmVersion": null,
+      "publishedBy": null,
+      "machine": null,
+      "publishedAt": null,
+      "blockedReason": null
+    },
+    {
+      "name": "dsh-session-export",
+      "description": "DSH 会话导出/备份：列出本地所有会话，把任意会话导出为 Markdown / JSON（含标题、时间、工作目录与完整对话与工具调用）。Session export & backup tool for DeepSeek Harness (dsh) — export chat sessions to Markdown or JSON.",
+      "tools": 2,
+      "localVersion": "0.1.0",
+      "status": "pending",
+      "npmVersion": null,
+      "publishedBy": null,
+      "machine": null,
+      "publishedAt": null,
+      "blockedReason": null
+    },
+    {
+      "name": "dsh-session-search",
+      "description": "DSH 会话全文搜索：在所有本地会话（含 zstd 压缩与明文存储）中按关键词检索，返回命中的会话、行内容与上下文。Full-text search across DeepSeek Harness sessions — find any past conversation by keyword, works with zstd and plaintext session logs.",
       "tools": 1,
       "localVersion": "0.1.0",
       "status": "pending",
@@ -918,90 +954,6 @@
       "name": "dsh-xml",
       "description": "XML ↔ JSON 转换",
       "tools": 2,
-      "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
-      "blockedReason": null
-    },
-    {
-      "name": "dsh-context-dashboard",
-      "description": "DSH 会话上下文统计面板：统计每个会话的消息数、轮次、工具调用、字符数与预估 token，生成全量/按项目上下文报告，帮你看清上下文消耗大户。Context usage dashboard for DeepSeek Harness — per-session message/token statistics and context reports (zstd + plaintext logs).",
-      "tools": 2,
-      "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
-      "blockedReason": null
-    },
-    {
-      "name": "dsh-http-uckkk",
-      "description": "HTTP 请求工具：发起请求返回状态码/响应头/响应体/耗时（Node fetch）",
-      "tools": 1,
-      "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
-      "blockedReason": null
-    },
-    {
-      "name": "dsh-image-uckkk",
-      "description": "图片处理：读取图片尺寸/格式、缩放与格式转换（内置 ffmpeg，跨平台）",
-      "tools": 2,
-      "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
-      "blockedReason": null
-    },
-    {
-      "name": "dsh-jwt-uckkk",
-      "description": "JWT 解码：解析 header/payload，判断过期（不验签）",
-      "tools": 1,
-      "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
-      "blockedReason": null
-    },
-    {
-      "name": "dsh-password-uckkk",
-      "description": "密码工具：生成强随机密码、检测密码强度与信息熵",
-      "tools": 0,
-      "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
-      "blockedReason": null
-    },
-    {
-      "name": "dsh-session-export",
-      "description": "DSH 会话导出/备份：列出本地所有会话，把任意会话导出为 Markdown / JSON（含标题、时间、工作目录与完整对话与工具调用）。Session export & backup tool for DeepSeek Harness (dsh) — export chat sessions to Markdown or JSON.",
-      "tools": 2,
-      "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
-      "blockedReason": null
-    },
-    {
-      "name": "dsh-session-search",
-      "description": "DSH 会话全文搜索：在所有本地会话（含 zstd 压缩与明文存储）中按关键词检索，返回命中的会话、行内容与上下文。Full-text search across DeepSeek Harness sessions — find any past conversation by keyword, works with zstd and plaintext session logs.",
-      "tools": 1,
       "localVersion": "0.1.0",
       "status": "pending",
       "npmVersion": null,

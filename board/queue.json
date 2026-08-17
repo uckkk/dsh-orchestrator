@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "pending": [
+    "dsh-context-dashboard",
     "dsh-csv-to-md",
     "dsh-design-patterns",
     "dsh-design-styles",
@@ -13,6 +14,8 @@
     "dsh-html-escape",
     "dsh-html-parse",
     "dsh-http-status",
+    "dsh-http-uckkk",
+    "dsh-image-uckkk",
     "dsh-ini",
     "dsh-interaction-design",
     "dsh-json-csv",
@@ -23,6 +26,7 @@
     "dsh-json-tools",
     "dsh-json-types",
     "dsh-json-validate",
+    "dsh-jwt-uckkk",
     "dsh-log-analyzer",
     "dsh-markdown-table",
     "dsh-markdown-toc",
@@ -30,6 +34,7 @@
     "dsh-number-format",
     "dsh-number-words",
     "dsh-paper-sizes",
+    "dsh-password-uckkk",
     "dsh-photography",
     "dsh-query-string",
     "dsh-random",
@@ -38,6 +43,8 @@
     "dsh-repo-health",
     "dsh-roman",
     "dsh-semver",
+    "dsh-session-export",
+    "dsh-session-search",
     "dsh-storyboard",
     "dsh-string-similarity",
     "dsh-text-diff",
@@ -52,14 +59,7 @@
     "dsh-useragent",
     "dsh-ux-writing",
     "dsh-wcag",
-    "dsh-xml",
-    "dsh-context-dashboard",
-    "dsh-http-uckkk",
-    "dsh-image-uckkk",
-    "dsh-jwt-uckkk",
-    "dsh-password-uckkk",
-    "dsh-session-export",
-    "dsh-session-search"
+    "dsh-xml"
   ],
   "published": {
     "dsh-api-contract": {
