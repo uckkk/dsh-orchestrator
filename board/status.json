@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1786965296177,
+  "updatedAt": 1786965344282,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -223,11 +223,11 @@
       "description": "UI 设计模式参考：常见界面组件模式与适用场景知识库，帮助快速选择正确的交互组件（UI design patterns for DeepSeek Harness）",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1786965344282,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1786965296177,
-      "published": 2,
+      "lastSeen": 1786965344282,
+      "published": 3,
       "blocked": 11
     }
   }
