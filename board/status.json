@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1786937400604,
+  "updatedAt": 1786937506838,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -127,12 +127,12 @@
       "description": "颜色名称",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
+      "status": "blocked",
       "npmVersion": null,
       "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
-      "blockedReason": null
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1786937506838,
+      "blockedReason": "npm 上该名字属于 i6060，需改名"
     },
     {
       "name": "dsh-color-theory",
@@ -929,9 +929,9 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1786937400604,
+      "lastSeen": 1786937506838,
       "published": 0,
-      "blocked": 6
+      "blocked": 7
     }
   }
 }
