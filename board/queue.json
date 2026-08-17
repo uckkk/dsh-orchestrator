@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-color",
     "dsh-color-contrast",
     "dsh-color-name",
     "dsh-color-theory",
@@ -156,6 +155,11 @@
     "dsh-code-stats": {
       "reason": "npm 上该名字属于 i6060，需改名",
       "at": 1786937338003,
+      "by": "bf-chenqingr-cvp0wm"
+    },
+    "dsh-color": {
+      "reason": "E403：名字被他人占用（无法确认 owner，标记需改名）",
+      "at": 1786937400604,
       "by": "bf-chenqingr-cvp0wm"
     }
   }
