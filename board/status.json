@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1786946982150,
+  "updatedAt": 1786965248431,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -163,11 +163,11 @@
       "description": "DSH 会话上下文统计面板：统计每个会话的消息数、轮次、工具调用、字符数与预估 token，生成全量/按项目上下文报告，帮你看清上下文消耗大户。Context usage dashboard for DeepSeek Harness — per-session message/token statistics and context reports (zstd + plaintext logs).",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1786965248431,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1786939113798,
-      "published": 0,
+      "lastSeen": 1786965248431,
+      "published": 1,
       "blocked": 11
     }
   }
