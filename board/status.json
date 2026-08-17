@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1786937238470,
+  "updatedAt": 1786937289408,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -79,12 +79,12 @@
       "description": "电影运镜与镜头语言参考",
       "tools": 3,
       "localVersion": "0.1.0",
-      "status": "pending",
+      "status": "blocked",
       "npmVersion": null,
       "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
-      "blockedReason": null
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1786937289408,
+      "blockedReason": "npm 上该名字属于 i6060，需改名"
     },
     {
       "name": "dsh-code-stats",
@@ -929,9 +929,9 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1786937238470,
+      "lastSeen": 1786937289408,
       "published": 0,
-      "blocked": 3
+      "blocked": 4
     }
   }
 }
