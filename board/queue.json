@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-color-contrast",
     "dsh-csv-to-md",
     "dsh-design-patterns",
     "dsh-design-styles",
@@ -176,6 +175,11 @@
     "dsh-cron": {
       "reason": "npm 上该名字属于 i6060，需改名",
       "at": 1786937661265,
+      "by": "bf-chenqingr-cvp0wm"
+    },
+    "dsh-color-contrast": {
+      "reason": "npm 上该名字属于 i6060，需改名",
+      "at": 1786939113798,
       "by": "bf-chenqingr-cvp0wm"
     }
   }
