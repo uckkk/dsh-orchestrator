@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-animation-principles",
     "dsh-base64url",
     "dsh-byte-size",
     "dsh-cinematography",
@@ -137,6 +136,11 @@
       "reason": "npm 上该名字属于 zhijiangtang，需改名",
       "at": 1786930059721,
       "by": "pre"
+    },
+    "dsh-animation-principles": {
+      "reason": "npm 上该名字属于 i6060，需改名",
+      "at": 1786937139110,
+      "by": "bf-chenqingr-cvp0wm"
     }
   }
 }

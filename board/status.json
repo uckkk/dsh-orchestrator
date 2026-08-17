@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "updatedAt": 1786930059721,
+  "updatedAt": 1786937139110,
   "plugins": [
     {
       "name": "dsh-animation-principles",
       "description": "迪士尼动画12法则知识库",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
+      "status": "blocked",
       "npmVersion": null,
       "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
-      "blockedReason": null
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1786937139110,
+      "blockedReason": "npm 上该名字属于 i6060，需改名"
     },
     {
       "name": "dsh-api-contract",
@@ -927,5 +927,11 @@
       "blockedReason": null
     }
   ],
-  "machines": {}
+  "machines": {
+    "bf-chenqingr-cvp0wm": {
+      "lastSeen": 1786937139110,
+      "published": 0,
+      "blocked": 1
+    }
+  }
 }
