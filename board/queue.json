@@ -52,7 +52,14 @@
     "dsh-useragent",
     "dsh-ux-writing",
     "dsh-wcag",
-    "dsh-xml"
+    "dsh-xml",
+    "dsh-context-dashboard",
+    "dsh-http-uckkk",
+    "dsh-image-uckkk",
+    "dsh-jwt-uckkk",
+    "dsh-password-uckkk",
+    "dsh-session-export",
+    "dsh-session-search"
   ],
   "published": {
     "dsh-api-contract": {
