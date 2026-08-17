@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-byte-size",
     "dsh-cinematography",
     "dsh-code-stats",
     "dsh-color",
@@ -144,6 +143,11 @@
     "dsh-base64url": {
       "reason": "npm 上该名字属于 i6060，需改名",
       "at": 1786937188883,
+      "by": "bf-chenqingr-cvp0wm"
+    },
+    "dsh-byte-size": {
+      "reason": "npm 上该名字属于 i6060，需改名",
+      "at": 1786937238470,
       "by": "bf-chenqingr-cvp0wm"
     }
   }
