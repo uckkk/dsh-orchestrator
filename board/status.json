@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1786937289408,
+  "updatedAt": 1786937338003,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -91,12 +91,12 @@
       "description": "代码统计：扫描项目，按语言统计文件数与代码行数，返回语言分布与最大文件清单",
       "tools": 1,
       "localVersion": "0.1.0",
-      "status": "pending",
+      "status": "blocked",
       "npmVersion": null,
       "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
-      "blockedReason": null
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1786937338003,
+      "blockedReason": "npm 上该名字属于 i6060，需改名"
     },
     {
       "name": "dsh-color",
@@ -929,9 +929,9 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1786937289408,
+      "lastSeen": 1786937338003,
       "published": 0,
-      "blocked": 4
+      "blocked": 5
     }
   }
 }
