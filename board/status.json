@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1786937559048,
+  "updatedAt": 1786937609104,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -151,12 +151,12 @@
       "description": "构图法则参考",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
+      "status": "blocked",
       "npmVersion": null,
       "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
-      "blockedReason": null
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1786937609104,
+      "blockedReason": "npm 上该名字属于 i6060，需改名"
     },
     {
       "name": "dsh-cron",
@@ -929,9 +929,9 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1786937559048,
+      "lastSeen": 1786937609104,
       "published": 0,
-      "blocked": 8
+      "blocked": 9
     }
   }
 }
