@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1786965584029,
+  "updatedAt": 1786965632888,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -295,11 +295,11 @@
       "description": "格式塔视觉感知原则参考",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1786965632888,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1786965584029,
-      "published": 8,
+      "lastSeen": 1786965632888,
+      "published": 9,
       "blocked": 11
     }
   }
