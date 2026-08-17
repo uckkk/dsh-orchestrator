@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1786965393071,
+  "updatedAt": 1786965440784,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -247,11 +247,11 @@
       "description": "时长格式化：把毫秒/秒等时长转换为人类可读的 X 小时 Y 分钟 Z 秒，支持多种单位（Duration formatter tool for DeepSeek Harness）",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1786965440784,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1786965393071,
-      "published": 4,
+      "lastSeen": 1786965440784,
+      "published": 5,
       "blocked": 11
     }
   }

@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-duration",
     "dsh-env-json",
     "dsh-env-manager",
     "dsh-file-rename",
@@ -176,6 +175,11 @@
     "dsh-design-styles": {
       "machine": "bf-chenqingr-cvp0wm",
       "at": 1786965393071,
+      "version": "0.1.0"
+    },
+    "dsh-duration": {
+      "machine": "bf-chenqingr-cvp0wm",
+      "at": 1786965440784,
       "version": "0.1.0"
     }
   },
