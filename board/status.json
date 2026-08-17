@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1786937609104,
+  "updatedAt": 1786937661265,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -163,12 +163,12 @@
       "description": "Cron 解析：解析 5 字段 cron 表达式，返回人类可读描述与接下来 N 次执行时间",
       "tools": 1,
       "localVersion": "0.1.0",
-      "status": "pending",
+      "status": "blocked",
       "npmVersion": null,
       "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
-      "blockedReason": null
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1786937661265,
+      "blockedReason": "npm 上该名字属于 i6060，需改名"
     },
     {
       "name": "dsh-csv-to-md",
@@ -929,9 +929,9 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1786937609104,
+      "lastSeen": 1786937661265,
       "published": 0,
-      "blocked": 9
+      "blocked": 10
     }
   }
 }
