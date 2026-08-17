@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-file-rename",
     "dsh-gestalt",
     "dsh-grid-system",
     "dsh-html-escape",
@@ -188,6 +187,11 @@
     "dsh-env-manager": {
       "machine": "bf-chenqingr-cvp0wm",
       "at": 1786965536587,
+      "version": "0.1.0"
+    },
+    "dsh-file-rename": {
+      "machine": "bf-chenqingr-cvp0wm",
+      "at": 1786965584029,
       "version": "0.1.0"
     }
   },

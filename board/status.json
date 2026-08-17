@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1786965536587,
+  "updatedAt": 1786965584029,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -283,11 +283,11 @@
       "description": "批量重命名：按查找/替换、前缀/后缀、大小写规则批量重命名文件，支持 dry-run 预览",
       "tools": 1,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1786965584029,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1786965536587,
-      "published": 7,
+      "lastSeen": 1786965584029,
+      "published": 8,
       "blocked": 11
     }
   }
