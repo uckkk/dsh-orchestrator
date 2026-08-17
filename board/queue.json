@@ -1,6 +1,142 @@
 {
   "schema": 1,
-  "pending": [],
-  "published": {},
-  "blocked": {}
+  "pending": [
+    "dsh-animation-principles",
+    "dsh-base64url",
+    "dsh-byte-size",
+    "dsh-cinematography",
+    "dsh-code-stats",
+    "dsh-color",
+    "dsh-color-contrast",
+    "dsh-color-name",
+    "dsh-color-theory",
+    "dsh-composition",
+    "dsh-cron",
+    "dsh-csv-to-md",
+    "dsh-design-patterns",
+    "dsh-design-styles",
+    "dsh-duration",
+    "dsh-env-json",
+    "dsh-env-manager",
+    "dsh-file-rename",
+    "dsh-gestalt",
+    "dsh-grid-system",
+    "dsh-html-escape",
+    "dsh-html-parse",
+    "dsh-http-status",
+    "dsh-ini",
+    "dsh-interaction-design",
+    "dsh-json-csv",
+    "dsh-json-flatten",
+    "dsh-json-merge",
+    "dsh-json-schema",
+    "dsh-json-to-sql",
+    "dsh-json-tools",
+    "dsh-json-types",
+    "dsh-json-validate",
+    "dsh-log-analyzer",
+    "dsh-markdown-table",
+    "dsh-markdown-toc",
+    "dsh-motion-design",
+    "dsh-number-format",
+    "dsh-number-words",
+    "dsh-paper-sizes",
+    "dsh-photography",
+    "dsh-query-string",
+    "dsh-random",
+    "dsh-readme",
+    "dsh-regex",
+    "dsh-repo-health",
+    "dsh-roman",
+    "dsh-semver",
+    "dsh-storyboard",
+    "dsh-string-similarity",
+    "dsh-text-diff",
+    "dsh-text-mask",
+    "dsh-text-tools",
+    "dsh-text-wrap",
+    "dsh-toml",
+    "dsh-typography",
+    "dsh-unicode",
+    "dsh-unit",
+    "dsh-url",
+    "dsh-useragent",
+    "dsh-ux-writing",
+    "dsh-wcag",
+    "dsh-xml"
+  ],
+  "published": {
+    "dsh-api-contract": {
+      "machine": "pre",
+      "at": 1786930059721,
+      "version": "0.1.0"
+    },
+    "dsh-api-mock": {
+      "machine": "pre",
+      "at": 1786930059721,
+      "version": "0.1.0"
+    },
+    "dsh-api-testgen": {
+      "machine": "pre",
+      "at": 1786930059721,
+      "version": "0.1.0"
+    },
+    "dsh-db-migration": {
+      "machine": "pre",
+      "at": 1786930059721,
+      "version": "0.1.0"
+    },
+    "dsh-dependency-audit": {
+      "machine": "pre",
+      "at": 1786930059721,
+      "version": "0.1.0"
+    },
+    "dsh-git-commit": {
+      "machine": "pre",
+      "at": 1786930059721,
+      "version": "0.1.0"
+    },
+    "dsh-license-guard": {
+      "machine": "pre",
+      "at": 1786930059721,
+      "version": "0.1.0"
+    },
+    "dsh-secret-scan": {
+      "machine": "pre",
+      "at": 1786930059721,
+      "version": "0.1.0"
+    },
+    "dsh-test-coverage": {
+      "machine": "pre",
+      "at": 1786930059721,
+      "version": "0.1.0"
+    },
+    "dsh-video-creator": {
+      "machine": "pre",
+      "at": 1786930059721,
+      "version": "0.1.4"
+    }
+  },
+  "blocked": {
+    "dsh-http": {
+      "reason": "npm 上该名字属于 zhijiangtang，需改名",
+      "at": 1786930059721,
+      "by": "pre"
+    },
+    "dsh-image": {
+      "reason": "npm 上该名字属于 r6047736，需改名",
+      "at": 1786930059721,
+      "by": "pre"
+    },
+    "dsh-jwt": {
+      "reason": "npm 上该名字属于 zhijiangtang，需改名",
+      "at": 1786930059721,
+      "by": "pre"
+    },
+    "dsh-password": {
+      "reason": "npm 上该名字属于 zhijiangtang，需改名",
+      "at": 1786930059721,
+      "by": "pre"
+    }
+  }
 }
