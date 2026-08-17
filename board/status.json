@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1786965632888,
+  "updatedAt": 1786965681408,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -319,11 +319,11 @@
       "description": "栅格与间距系统参考：8 点栅格、响应式断点与间距规范知识库，指导界面布局设计（Grid & spacing system reference for DSH）",
       "tools": 3,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1786965681408,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1786965632888,
-      "published": 9,
+      "lastSeen": 1786965681408,
+      "published": 10,
       "blocked": 11
     }
   }
