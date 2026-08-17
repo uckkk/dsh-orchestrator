@@ -2,7 +2,6 @@
   "schema": 1,
   "pending": [
     "dsh-color-contrast",
-    "dsh-color-theory",
     "dsh-composition",
     "dsh-cron",
     "dsh-csv-to-md",
@@ -164,6 +163,11 @@
     "dsh-color-name": {
       "reason": "npm 上该名字属于 i6060，需改名",
       "at": 1786937506838,
+      "by": "bf-chenqingr-cvp0wm"
+    },
+    "dsh-color-theory": {
+      "reason": "npm 上该名字属于 i6060，需改名",
+      "at": 1786937559048,
       "by": "bf-chenqingr-cvp0wm"
     }
   }
