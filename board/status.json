@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787052339357,
+  "updatedAt": 1787052387358,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -343,11 +343,11 @@
       "description": "HTML 解析：从 HTML 提取标题/meta/标题层级/链接/表格/纯文本等结构化数据",
       "tools": 1,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787052387358,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787052339357,
-      "published": 11,
+      "lastSeen": 1787052387358,
+      "published": 12,
       "blocked": 11
     }
   }
