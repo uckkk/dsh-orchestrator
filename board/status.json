@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787052584874,
+  "updatedAt": 1787052633100,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -403,11 +403,11 @@
       "description": "交互设计理论参考：反馈、状态、导航等交互设计原则知识库，辅助产品与界面设计（Interaction design principles for DeepSeek Harness）",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787052633100,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787052584874,
-      "published": 16,
+      "lastSeen": 1787052633100,
+      "published": 17,
       "blocked": 11
     }
   }
