@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-json-merge",
     "dsh-json-schema",
     "dsh-json-to-sql",
     "dsh-json-tools",
@@ -236,6 +235,11 @@
     "dsh-json-flatten": {
       "machine": "bf-chenqingr-cvp0wm",
       "at": 1787052731027,
+      "version": "0.1.0"
+    },
+    "dsh-json-merge": {
+      "machine": "bf-chenqingr-cvp0wm",
+      "at": 1787052781211,
       "version": "0.1.0"
     }
   },

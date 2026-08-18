@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787052731027,
+  "updatedAt": 1787052781211,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -439,11 +439,11 @@
       "description": "JSON 深合并：递归合并多个 JSON 对象，支持数组策略与冲突处理（Deep JSON merge tool for DeepSeek Harness）",
       "tools": 1,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787052781211,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787052731027,
-      "published": 19,
+      "lastSeen": 1787052781211,
+      "published": 20,
       "blocked": 11
     }
   }
