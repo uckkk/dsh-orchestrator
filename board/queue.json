@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-http-status",
     "dsh-http-uckkk",
     "dsh-image-uckkk",
     "dsh-ini",
@@ -208,6 +207,11 @@
     "dsh-html-parse": {
       "machine": "bf-chenqingr-cvp0wm",
       "at": 1787052387358,
+      "version": "0.1.0"
+    },
+    "dsh-http-status": {
+      "machine": "bf-chenqingr-cvp0wm",
+      "at": 1787052436142,
       "version": "0.1.0"
     }
   },
