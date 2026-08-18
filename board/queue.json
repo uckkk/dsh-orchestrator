@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-json-csv",
     "dsh-json-flatten",
     "dsh-json-merge",
     "dsh-json-schema",
@@ -228,6 +227,11 @@
     "dsh-interaction-design": {
       "machine": "bf-chenqingr-cvp0wm",
       "at": 1787052633100,
+      "version": "0.1.0"
+    },
+    "dsh-json-csv": {
+      "machine": "bf-chenqingr-cvp0wm",
+      "at": 1787052682333,
       "version": "0.1.0"
     }
   },
