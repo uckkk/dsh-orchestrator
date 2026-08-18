@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787052485594,
+  "updatedAt": 1787052535625,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -379,11 +379,11 @@
       "description": "图片处理：读取图片尺寸/格式、缩放与格式转换（内置 ffmpeg，跨平台）",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787052535625,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787052485594,
-      "published": 14,
+      "lastSeen": 1787052535625,
+      "published": 15,
       "blocked": 11
     }
   }

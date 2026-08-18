@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-image-uckkk",
     "dsh-ini",
     "dsh-interaction-design",
     "dsh-json-csv",
@@ -216,6 +215,11 @@
     "dsh-http-uckkk": {
       "machine": "bf-chenqingr-cvp0wm",
       "at": 1787052485594,
+      "version": "0.1.0"
+    },
+    "dsh-image-uckkk": {
+      "machine": "bf-chenqingr-cvp0wm",
+      "at": 1787052535625,
       "version": "0.1.0"
     }
   },
