@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787052436142,
+  "updatedAt": 1787052485594,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -367,11 +367,11 @@
       "description": "HTTP 请求工具：发起请求返回状态码/响应头/响应体/耗时（Node fetch）",
       "tools": 1,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787052485594,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787052436142,
-      "published": 13,
+      "lastSeen": 1787052485594,
+      "published": 14,
       "blocked": 11
     }
   }
