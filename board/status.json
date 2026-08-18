@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787052535625,
+  "updatedAt": 1787052584874,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -391,11 +391,11 @@
       "description": "INI ↔ JSON 转换",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787052584874,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787052535625,
-      "published": 15,
+      "lastSeen": 1787052584874,
+      "published": 16,
       "blocked": 11
     }
   }
