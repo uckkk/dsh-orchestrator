@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787052682333,
+  "updatedAt": 1787052731027,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -427,11 +427,11 @@
       "description": "JSON 扁平化：嵌套 JSON ↔ 点号扁平键互转（支持数组索引）",
       "tools": 0,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787052731027,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787052682333,
-      "published": 18,
+      "lastSeen": 1787052731027,
+      "published": 19,
       "blocked": 11
     }
   }
