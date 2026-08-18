@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1786965681408,
+  "updatedAt": 1787052339357,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -331,11 +331,11 @@
       "description": "HTML 实体编解码：转义/反转义 HTML 特殊字符与常用实体",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787052339357,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1786965681408,
-      "published": 10,
+      "lastSeen": 1787052339357,
+      "published": 11,
       "blocked": 11
     }
   }
