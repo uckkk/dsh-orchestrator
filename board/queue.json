@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-json-to-sql",
     "dsh-number-format",
     "dsh-number-words",
     "dsh-paper-sizes",
@@ -276,6 +275,11 @@
     "dsh-motion-design": {
       "machine": "bf-chenqingr-cvp0wm",
       "at": 1787141186118,
+      "version": "0.1.0"
+    },
+    "dsh-json-to-sql": {
+      "machine": "bf-chenqingr-cvp0wm",
+      "at": 1787142931901,
       "version": "0.1.0"
     }
   },

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787141186118,
+  "updatedAt": 1787142931901,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -463,11 +463,11 @@
       "description": "JSON 转 SQL",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787142931901,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787141186118,
-      "published": 29,
+      "lastSeen": 1787142931901,
+      "published": 30,
       "blocked": 11
     }
   }
