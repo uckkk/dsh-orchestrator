@@ -2,7 +2,6 @@
   "schema": 1,
   "pending": [
     "dsh-json-to-sql",
-    "dsh-markdown-toc",
     "dsh-motion-design",
     "dsh-number-format",
     "dsh-number-words",
@@ -268,6 +267,11 @@
     "dsh-markdown-table": {
       "machine": "bf-chenqingr-cvp0wm",
       "at": 1787141079200,
+      "version": "0.1.0"
+    },
+    "dsh-markdown-toc": {
+      "machine": "bf-chenqingr-cvp0wm",
+      "at": 1787141134133,
       "version": "0.1.0"
     }
   },

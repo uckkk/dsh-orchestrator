@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787141079200,
+  "updatedAt": 1787141134133,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -559,11 +559,11 @@
       "description": "Markdown 目录生成",
       "tools": 1,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787141134133,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787141079200,
-      "published": 27,
+      "lastSeen": 1787141134133,
+      "published": 28,
       "blocked": 11
     }
   }
