@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787140953575,
+  "updatedAt": 1787141010838,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -535,11 +535,11 @@
       "description": "日志分析：解析日志文件，提取错误/异常/告警，按签名聚合统计并返回结构化错误清单与上下文",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787141010838,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787140953575,
-      "published": 25,
+      "lastSeen": 1787141010838,
+      "published": 26,
       "blocked": 11
     }
   }
