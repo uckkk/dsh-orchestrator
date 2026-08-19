@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787052781211,
+  "updatedAt": 1787140603550,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -451,11 +451,11 @@
       "description": "JSON Schema 校验",
       "tools": 1,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787140603550,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787052781211,
-      "published": 20,
+      "lastSeen": 1787140603550,
+      "published": 21,
       "blocked": 11
     }
   }
