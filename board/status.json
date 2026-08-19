@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787140758730,
+  "updatedAt": 1787140889194,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -499,11 +499,11 @@
       "description": "JSON 校验与修复：定位语法错误行列，自动修复注释/尾逗号/单引号",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787140889194,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787140758730,
-      "published": 23,
+      "lastSeen": 1787140889194,
+      "published": 24,
       "blocked": 11
     }
   }
