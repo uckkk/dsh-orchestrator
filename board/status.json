@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787140708065,
+  "updatedAt": 1787140758730,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -487,11 +487,11 @@
       "description": "JSON 类型生成：把 JSON 数据转换为 TypeScript 接口 / JSON Schema / Python(Pydantic) 模型，自动推断字段类型、嵌套对象与数组元素类型",
       "tools": 3,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787140758730,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787140708065,
-      "published": 22,
+      "lastSeen": 1787140758730,
+      "published": 23,
       "blocked": 11
     }
   }

@@ -2,7 +2,6 @@
   "schema": 1,
   "pending": [
     "dsh-json-to-sql",
-    "dsh-json-types",
     "dsh-json-validate",
     "dsh-jwt-uckkk",
     "dsh-log-analyzer",
@@ -248,6 +247,11 @@
     "dsh-json-tools": {
       "machine": "bf-chenqingr-cvp0wm",
       "at": 1787140708065,
+      "version": "0.1.0"
+    },
+    "dsh-json-types": {
+      "machine": "bf-chenqingr-cvp0wm",
+      "at": 1787140758730,
       "version": "0.1.0"
     }
   },
