@@ -2,7 +2,6 @@
   "schema": 1,
   "pending": [
     "dsh-json-to-sql",
-    "dsh-jwt-uckkk",
     "dsh-log-analyzer",
     "dsh-markdown-table",
     "dsh-markdown-toc",
@@ -256,6 +255,11 @@
     "dsh-json-validate": {
       "machine": "bf-chenqingr-cvp0wm",
       "at": 1787140889194,
+      "version": "0.1.0"
+    },
+    "dsh-jwt-uckkk": {
+      "machine": "bf-chenqingr-cvp0wm",
+      "at": 1787140953575,
       "version": "0.1.0"
     }
   },

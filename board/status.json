@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787140889194,
+  "updatedAt": 1787140953575,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -511,11 +511,11 @@
       "description": "JWT 解码：解析 header/payload，判断过期（不验签）",
       "tools": 1,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787140953575,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787140889194,
-      "published": 24,
+      "lastSeen": 1787140953575,
+      "published": 25,
       "blocked": 11
     }
   }
