@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-random",
     "dsh-readme",
     "dsh-regex",
     "dsh-repo-health",
@@ -304,6 +303,11 @@
     "dsh-query-string": {
       "machine": "bf-chenqingr-cvp0wm",
       "at": 1787228112437,
+      "version": "0.1.0"
+    },
+    "dsh-random": {
+      "machine": "bf-chenqingr-cvp0wm",
+      "at": 1787228179839,
       "version": "0.1.0"
     }
   },
