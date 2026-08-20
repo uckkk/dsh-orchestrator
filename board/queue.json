@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-number-format",
     "dsh-number-words",
     "dsh-paper-sizes",
     "dsh-password-uckkk",
@@ -280,6 +279,11 @@
     "dsh-json-to-sql": {
       "machine": "bf-chenqingr-cvp0wm",
       "at": 1787142931901,
+      "version": "0.1.0"
+    },
+    "dsh-number-format": {
+      "machine": "bf-chenqingr-cvp0wm",
+      "at": 1787227756724,
       "version": "0.1.0"
     }
   },
