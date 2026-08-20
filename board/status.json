@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787227756724,
+  "updatedAt": 1787227831361,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -595,11 +595,11 @@
       "description": "数字转大写：阿拉伯数字转中文大写（金额/票据场景），支持小数与负数（Number to Chinese uppercase words tool for DSH）",
       "tools": 3,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787227831361,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787227756724,
-      "published": 31,
+      "lastSeen": 1787227831361,
+      "published": 32,
       "blocked": 11
     }
   }
