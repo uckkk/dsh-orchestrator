@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787228179839,
+  "updatedAt": 1787228253994,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -667,11 +667,11 @@
       "description": "README 生成：扫描项目（package.json、目录结构、技术栈、脚本、许可证），自动生成结构化 README.md",
       "tools": 1,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787228253994,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787228179839,
-      "published": 37,
+      "lastSeen": 1787228253994,
+      "published": 38,
       "blocked": 11
     }
   }
