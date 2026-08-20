@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787228308800,
+  "updatedAt": 1787228380667,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -691,11 +691,11 @@
       "description": "项目体检：检查仓库的 README/LICENSE/.gitignore/测试/CI/锁文件/脚本等最佳实践，返回体检报告卡与修复建议",
       "tools": 1,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787228380667,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787228308800,
-      "published": 38,
+      "lastSeen": 1787228380667,
+      "published": 39,
       "blocked": 12
     }
   }
