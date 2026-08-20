@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787227904723,
+  "updatedAt": 1787227976784,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -619,11 +619,11 @@
       "description": "密码工具：生成强随机密码、检测密码强度与信息熵",
       "tools": 0,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787227976784,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787227904723,
-      "published": 33,
+      "lastSeen": 1787227976784,
+      "published": 34,
       "blocked": 11
     }
   }
