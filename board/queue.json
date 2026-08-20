@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-photography",
     "dsh-query-string",
     "dsh-random",
     "dsh-readme",
@@ -296,6 +295,11 @@
     "dsh-password-uckkk": {
       "machine": "bf-chenqingr-cvp0wm",
       "at": 1787227976784,
+      "version": "0.1.0"
+    },
+    "dsh-photography": {
+      "machine": "bf-chenqingr-cvp0wm",
+      "at": 1787228045523,
       "version": "0.1.0"
     }
   },

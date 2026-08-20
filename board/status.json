@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787227976784,
+  "updatedAt": 1787228045523,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -631,11 +631,11 @@
       "description": "摄影基础参考：曝光三角、焦距、光线与构图知识库，辅助摄影与画面设计（Photography basics reference for DeepSeek Harness）",
       "tools": 4,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787228045523,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787227976784,
-      "published": 34,
+      "lastSeen": 1787228045523,
+      "published": 35,
       "blocked": 11
     }
   }
