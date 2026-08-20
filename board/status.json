@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787228380667,
+  "updatedAt": 1787228448599,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -703,11 +703,11 @@
       "description": "罗马数字转换：阿拉伯数字与罗马数字互转（Roman numeral converter tool for DeepSeek Harness）",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787228448599,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787228380667,
-      "published": 39,
+      "lastSeen": 1787228448599,
+      "published": 40,
       "blocked": 12
     }
   }

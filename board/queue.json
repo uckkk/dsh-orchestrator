@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-roman",
     "dsh-semver",
     "dsh-session-export",
     "dsh-session-search",
@@ -315,6 +314,11 @@
     "dsh-repo-health": {
       "machine": "bf-chenqingr-cvp0wm",
       "at": 1787228380667,
+      "version": "0.1.0"
+    },
+    "dsh-roman": {
+      "machine": "bf-chenqingr-cvp0wm",
+      "at": 1787228448599,
       "version": "0.1.0"
     }
   },
