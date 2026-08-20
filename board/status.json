@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787228045523,
+  "updatedAt": 1787228112437,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -643,11 +643,11 @@
       "description": "查询字符串 ↔ 对象",
       "tools": 2,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787228112437,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787228045523,
-      "published": 35,
+      "lastSeen": 1787228112437,
+      "published": 36,
       "blocked": 11
     }
   }
