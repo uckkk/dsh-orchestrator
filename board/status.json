@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787227831361,
+  "updatedAt": 1787227904723,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -607,11 +607,11 @@
       "description": "纸张尺寸标准参考：ISO A/B/C 系列与常见印刷尺寸查询（Paper size reference for DeepSeek Harness）",
       "tools": 3,
       "localVersion": "0.1.0",
-      "status": "pending",
-      "npmVersion": null,
-      "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
+      "status": "published",
+      "npmVersion": "0.1.0",
+      "publishedBy": "istone",
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787227904723,
       "blockedReason": null
     },
     {
@@ -965,8 +965,8 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787227831361,
-      "published": 32,
+      "lastSeen": 1787227904723,
+      "published": 33,
       "blocked": 11
     }
   }

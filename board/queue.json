@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-paper-sizes",
     "dsh-password-uckkk",
     "dsh-photography",
     "dsh-query-string",
@@ -288,6 +287,11 @@
     "dsh-number-words": {
       "machine": "bf-chenqingr-cvp0wm",
       "at": 1787227831361,
+      "version": "0.1.0"
+    },
+    "dsh-paper-sizes": {
+      "machine": "bf-chenqingr-cvp0wm",
+      "at": 1787227904723,
       "version": "0.1.0"
     }
   },
