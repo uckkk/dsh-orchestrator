@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "pending": [
-    "dsh-regex",
     "dsh-repo-health",
     "dsh-roman",
     "dsh-semver",
@@ -389,6 +388,11 @@
     "dsh-color-contrast": {
       "reason": "npm 上该名字属于 i6060，需改名",
       "at": 1786939113798,
+      "by": "bf-chenqingr-cvp0wm"
+    },
+    "dsh-regex": {
+      "reason": "E403：名字被他人占用（无法确认 owner，标记需改名）",
+      "at": 1787228308800,
       "by": "bf-chenqingr-cvp0wm"
     }
   }

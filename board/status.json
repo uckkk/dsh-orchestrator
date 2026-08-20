@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1787228253994,
+  "updatedAt": 1787228308800,
   "plugins": [
     {
       "name": "dsh-animation-principles",
@@ -679,12 +679,12 @@
       "description": "正则工具：测试匹配（位置/分组）、安全替换、特殊字符转义",
       "tools": 3,
       "localVersion": "0.1.0",
-      "status": "pending",
+      "status": "blocked",
       "npmVersion": null,
       "publishedBy": null,
-      "machine": null,
-      "publishedAt": null,
-      "blockedReason": null
+      "machine": "bf-chenqingr-cvp0wm",
+      "publishedAt": 1787228308800,
+      "blockedReason": "E403：名字被他人占用（无法确认 owner，标记需改名）"
     },
     {
       "name": "dsh-repo-health",
@@ -965,9 +965,9 @@
   ],
   "machines": {
     "bf-chenqingr-cvp0wm": {
-      "lastSeen": 1787228253994,
+      "lastSeen": 1787228308800,
       "published": 38,
-      "blocked": 11
+      "blocked": 12
     }
   }
 }
